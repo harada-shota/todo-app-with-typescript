@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ToDo アプリ（React）の実装例
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
